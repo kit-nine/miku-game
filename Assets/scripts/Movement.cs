@@ -16,7 +16,7 @@ public class movement : MonoBehaviour
     void Update()
     {
         float horizontalInput = Input.GetAxis("Horizontal");
-        float verticalInput = Input.GetAxis("Vetical");
+        float verticalInput = Input.GetAxis("Vertical");
 
         rb.velocity = new Vector2(horizontalInput, verticalInput);
     }
