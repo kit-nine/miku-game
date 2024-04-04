@@ -23,5 +23,18 @@ public class PlatformerMovement : MonoBehaviour
         Vector2 moveVector = new Vector2(horizontalInput * moveSpeed, rb.velocity.y);
 
         //player is jumping
+        if(Input.GetButtonDown("Jump") && !isJumping){
+            moveVector.y = jumpForce;
+            isJumping = true;    
+        }   
+     rb.velocity = moveVector;
     }
+
+    private void OnCollision2D(Collision2D collision){
+        if (collision.gameObject.CompareTag("Ground")){
+            isJumping = false;
+        }
+    }
+
+
 }
