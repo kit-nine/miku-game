@@ -29,7 +29,7 @@ art
 				len (18 frames)
 					walk (6 frames), special (6 frames), run (6 frames)
 				teto (18 frames)
-					walk (6 frames), special (6 frames), run (6 frames)
+					walk (6 frames), teto dance (6 frames), run (6 frames)
 				gumi (18 frames)
 					walk (6 frames), special (6 frames), run (6 frames)
 				luka (18 frames)
@@ -47,16 +47,50 @@ art
 					jump (6 frames), melee attack (6 frames), shoot projectile (6 frames), summon projectiles (6 frames)
 				rin (48 frames)
 					jump (6 frames), melee attack (6 frames), shoot projectile (6 frames), summon projectiles (6 frames), v2 jump (6 frames), v2 melee attack (6 frames), v2 shoot projectile (6 frames), v2 summon projectiles (6 frames)
-			dating sprites ()
+			dating sprites (200x200) x45
 				miku (5 sprites)
 					happy, confused, sad, angry, neutral
-				len
-				teto
-				gumi
-				luka
-				rin
-		projectiles
+				len (8 sprites)
+					happy, confused, sad, angry, neutral, disgusted, shrug, interested
+				teto (8 sprites)
+					happy, confused, sad, angry, neutral, disgusted, shrug, interested
+				gumi (8 sprites)
+					happy, confused, sad, angry, neutral, disgusted, shrug, interested
+				luka (8 sprites)
+					happy, confused, sad, angry, neutral, disgusted, shrug, interested
+				rin (8 sprites)
+					happy, confused, sad, angry, neutral, disgusted, shrug, interested
+		projectiles (32x32) x54
+			len (9 frames)
+				banana (4 frames)
+				cooler banana (5 frames)
+			teto (9 frames)
+				baguette (4 frames)
+				drill (5 frames)
+			gumi (9 frames)
+				gummy bear (4 frames)
+				clone (5 frames)
+			luka (9 frames)
+				fish (4 frames)
+				ocean waves (5 frames)
+			rin (18 frames)
+				oranges (4 frames)
+				oranges & bananas (5 frames)
+				knives (4 frames)
+				swords (5 frames)
 	animatics
+		dating
+			len
+				disgusted
+			teto
+				
+			gumi
+				
+			luka
+				
+			rin
+				
+		ending
 	other
 code
 	
