@@ -22,8 +22,6 @@ miku video gameeee
 		len hates you animation (5 frames)
 		len finds you okay ig animation (5 frames)
 		len thinks youre super cool (8 frames)
-	- win screen (1920x1080)
-	- game over screen (1920x1080)
 -- baguetTETO assets --
 (songs: area - fukkireta; boss - teto territory)
 	- area bg (1920x1080)
@@ -46,8 +44,6 @@ miku video gameeee
 		teto hates you animation (5 frames)
 		teto finds you okay ig animation (5 frames)
 		teto thinks youre super cool (8 frames)
-	- win screen (1920x1080)
-	- game over screen (1920x1080)
 -- GUMI bear assets --
 (songs: area - karma; boss - copycat)
 	- area bg (1920x1080)
@@ -70,8 +66,6 @@ miku video gameeee
 		gumi hates you animation (5 frames)
 		gumi finds you okay ig animation (5 frames)
 		gumi thinks youre super cool (8 frames)
-	- win screen (1920x1080)
-	- game over screen (1920x1080)
 -- LUKAwarm bay assets --
 (songs: area - tako luka maguro fever; boss - luka luka night fever;
 	- area bg (1920x1080)
@@ -94,8 +88,6 @@ miku video gameeee
 		luka hates you animation (5 frames)
 		luka finds you okay ig animation (5 frames)
 		luka thinks youre super cool (8 frames)
-	- win screen (1920x1080)
-	- game over screen (1920x1080)
 -- oRINge land assets --
 (songs: area (normal) - young girl a; area (v2) - nee nee nee; boss (normal) - daughter of evil; boss (v2) - isn't it "a"?)
 	- area bg (1920x1080)
@@ -126,8 +118,6 @@ miku video gameeee
 		rin hates you animation (5 frames)
 		rin finds you okay ig animation (5 frames)
 		rin thinks youre super cool (8 frames)
-	- win screen (1920x1080)
-	- game over screen (1920x1080)
 -- other things we need that aren't confined to an area --
 	- miku (64x64)
 		walk animation (8 frames)
