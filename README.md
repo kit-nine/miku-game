@@ -15,12 +15,15 @@ week 8 - finishing touches
 tl;dr what youre doing this week: (will update each sunday at the latest)
 
 DANIEL:
-	- program all menus
+	program all menus
+ 
 VALA:
-	- draw all gumi's assets
+	draw all gumi's assets
+ 
 LEXI:
-	- recolor the banana lend tileset for each of the other areas
-	- draw all miku's outside fight sprites
+	recolor the banana lend tileset for each of the other areas
+	draw all miku's outside fight sprites
+
 KIT:
-	- design area 1
-	- put in music requests of all &/or make covers of at least a few of the songs
+	design area 1
+ 	put in music requests of all &/or make covers of at least a few of the songs
