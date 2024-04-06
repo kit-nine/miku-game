@@ -13,13 +13,14 @@ week 7 - animatics, music code
 week 8 - finishing touches
 
 tl;dr what youre doing this week: (will update each sunday at the latest)
-DANIEL
+
+DANIEL:
 	- program all menus
-VALA
+VALA:
 	- draw all gumi's assets
-LEXI
+LEXI:
 	- recolor the banana lend tileset for each of the other areas
 	- draw all miku's outside fight sprites
-KIT
+KIT:
 	- design area 1
 	- put in music requests of all &/or make covers of at least a few of the songs
