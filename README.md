@@ -25,5 +25,5 @@ LEXI:
 	draw all miku's outside fight sprites
 
 KIT:
-	design area 1
+!	design area 1
  	put in music requests of all &/or make covers of at least a few of the songs
