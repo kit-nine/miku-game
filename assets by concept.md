@@ -159,22 +159,22 @@ code
 			interact key lets you skip to the end of the sentence / continue to the next one after its done
 			fancy sprites match up with the tone of the sentence
 music - covers of all of these (yes covers are legal i looked up fair use we just cant use the vocaloids for them we have to use a synth without voice tuning)
-	banana song
-	servant of evil
-	fukkireta
-	teto territory
-	karma
-	copycat
-	tako luka maguro fever
-	luka luka night fever
-	young girl 
-	nee nee nee
-	daughter of evil
-	isn't it "a"?
-	rolling girl
-	reincarnation apple
-	ultimate senpai
-	kick-ass *literally
-	don't be fooled by weird love
-	love for love by love of love
-	non-breath oblige
+	banana song - needs transcribing
+	servant of evil - https://musescore.com/user/6430101/scores/1538916
+	fukkireta - https://musescore.com/user/2549301/scores/1735381
+	teto territory - https://musescore.com/user/8062846/scores/4256781
+	karma - https://musescore.com/user/20466666/scores/4377321
+	copycat - https://musescore.com/user/38235231/scores/4443636
+	tako luka maguro fever - needs transcription
+	luka luka night fever - https://musescore.com/user/27754159/scores/6810559
+	young girl a - https://musescore.com/user/39385785/scores/11300374
+	nee nee nee - https://musescore.com/user/36002014/scores/9916936
+	daughter of evil - https://musescore.com/user/9387251/scores/4762111
+	isn't it "a"? - https://www.youtube.com/watch?v=Xhzm1FWM-EM
+	rolling girl - https://musescore.com/user/17011/scores/119691
+	reincarnation apple - https://www.youtube.com/watch?v=bnXC9v-rv0s
+	ultimate senpai - https://musescore.com/user/6411506/scores/6069617
+	kick-ass *literally - needs transcribing
+	don't be fooled by weird love - needs transcribing
+	love for love by love of love - https://drive.google.com/file/d/1MGohk4ptwC2MQNOeax1sMzLtvZlxUPGI/view?usp=drive_link
+	non-breath oblige - https://musescore.com/user/40260509/scores/7121958
