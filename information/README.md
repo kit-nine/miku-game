@@ -15,28 +15,10 @@ week 8 - finishing touches
 tl;dr what youre doing this week: (will update each sunday at the latest)
 
 DANIEL:
-<<<<<<< HEAD:README.md
-	program all menus
- 
-VALA:
-	draw all gumi's assets
- 
-LEXI:
-	recolor the banana lend tileset for each of the other areas
-	draw all miku's outside fight sprites
-
-KIT:
-!	design area 1
- 	put in music requests of all &/or make covers of at least a few of the songs
-=======
 	area title screen, area enemies, area end, miku sprinting
- 
 VALA:
-	character dating/textbox sprites miku, backgrounds 1-10
- 
+	characters dating/textbox sprites miku, backgrounds 1-10
 LEXI:
-	projectiles
-
+	projectiles (all)
 KIT:
-	design all other areas, get some of the songs done
->>>>>>> kit:information/README.md
+	all areas designed and tiled out, some amount of songs done
