@@ -178,3 +178,4 @@ music - covers of all of these (yes covers are legal i looked up fair use we jus
 	don't be fooled by weird love - needs transcribing
 	love for love by love of love - https://drive.google.com/file/d/1MGohk4ptwC2MQNOeax1sMzLtvZlxUPGI/view?usp=drive_link
 	non-breath oblige - https://musescore.com/user/40260509/scores/7121958
+		https://onlinesequencer.net/3940826#t0
