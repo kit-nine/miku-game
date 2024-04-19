@@ -1,12 +1,3 @@
-week 1
-week 2
-week 3
-week 4
-week 5
-week 6
-week 7
-need to elaborate
-
 art
 	backgrounds - (1920x1080) x20
 		A - banana lend title screen
@@ -32,7 +23,7 @@ art
 		U - dating bg
 		V - dating animatic bg
 	tilesets - (64x64) x5
-		A - yellow & black
+✓		A - yellow & black
 		B - light red & dark grey
 		C - lime & desaturated orange
 		D - pink, black, & gold
@@ -40,14 +31,14 @@ art
 	spritesheets
 		characters
 			outside fight (64x64) x146
-				miku (68 frames)
-					walk (8 frames), idle (4 frames), sprint (8 frames), jump (8 frames), attack1 (10 frames), attack2 (10 frames), sing (10 frames), slow time (10 frames)
+✓				miku (68 frames)
+✓					walk (8 frames), idle (4 frames), sprint (8 frames), jump (8 frames), attack1 (10 frames), attack2 (10 frames), sing (10 frames), slow time (10 frames)
 				len (18 frames)
 					walk (6 frames), special (6 frames), run (6 frames)
 				teto (18 frames)
 					walk (6 frames), teto dance (6 frames), run (6 frames)
-				gumi (18 frames)
-					walk (6 frames), special (6 frames), run (6 frames)
+✓				gumi (18 frames)
+✓					walk (6 frames), special (6 frames), run (6 frames)
 				luka (18 frames)
 					walk (6 frames), luka luka dance (6 frames), run (6 frames)
 				rin (36 frames)
@@ -57,8 +48,8 @@ art
 					jump (6 frames), melee attack (6 frames), shoot projectile (6 frames), summon projectiles (6 frames)
 				teto (24 frames)
 					jump (6 frames), melee attack (6 frames), shoot projectile (6 frames), summon projectiles (6 frames)
-				gumi (24 frames)
-					jump (6 frames), melee attack (6 frames), shoot projectile (6 frames), summon projectiles (6 frames)
+✓				gumi (24 frames)
+✓					jump (6 frames), melee attack (6 frames), shoot projectile (6 frames), summon projectiles (6 frames)
 				luka (24 frames)
 					jump (6 frames), melee attack (6 frames), shoot projectile (6 frames), summon projectiles (6 frames)
 				rin (48 frames)
@@ -70,8 +61,8 @@ art
 					happy, confused, sad, angry, neutral, disgusted, shrug, interested
 				teto (8 sprites)
 					happy, confused, sad, angry, neutral, disgusted, shrug, interested
-				gumi (8 sprites)
-					happy, confused, sad, angry, neutral, disgusted, shrug, interested
+✓				gumi (8 sprites)
+✓					happy, confused, sad, angry, neutral, disgusted, shrug, interested
 				luka (8 sprites)
 					happy, confused, sad, angry, neutral, disgusted, shrug, interested
 				rin (8 sprites)
@@ -128,7 +119,7 @@ code
 	music
 		plays the right music for the area
 	menus
-		start menu - start button, options button, controls button, credits button
+✓		start menu - start button, options button, controls button, credits button
 		pause menu - resume button, options button, controls button, quit button
 		death menu - restart button, quit button
 		game over menu - restart button, credits button, quit button
@@ -148,7 +139,7 @@ code
 	dating
 		dating code - dating sim setup with choices, scores, reactions
 	other
-		basic platformer movement code
+✓		basic platformer movement code
 		miku - attacking - melee with the leek
 		miku - sprinting
 		miku - sing - music notes fire in a spiral away from miku dazing what they hit
@@ -158,7 +149,7 @@ code
 			text goes on screen 1 char at a time with voice tones & colors based on the character saying it
 			interact key lets you skip to the end of the sentence / continue to the next one after its done
 			fancy sprites match up with the tone of the sentence
-music - covers of all of these (yes covers are legal i looked up fair use we just cant use the vocaloids for them we have to use a synth without voice tuning)
+music
 	banana song - needs transcribing
 	servant of evil - https://musescore.com/user/6430101/scores/1538916
 	fukkireta - https://musescore.com/user/2549301/scores/1735381
