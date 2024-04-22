@@ -15,10 +15,10 @@ week 8 - finishing touches
 tl;dr what youre doing this week: (will update each sunday at the latest)
 
 DANIEL:
-	area title screen, area enemies, area end, miku sprinting
+	kill/remaining counter, cutscenes, dating code, textboxes
 VALA:
-	characters dating/textbox sprites miku, backgrounds 1-10
+	luka outside fight, boss sprites, dating/textbox sprites
 LEXI:
-	projectiles (all)
+	teto outside fight, boss sprites, dating/textbox sprites
 KIT:
-	all areas designed and tiled out, some amount of songs done
+	make more songs, 
