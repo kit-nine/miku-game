@@ -5,9 +5,10 @@ using UnityEngine;
 
 public class EndScreen : MonoBehaviour
 {   public string End_Menu ="End_Menu";
+    string SceneName = SceneManager.GetActiveScene().name;
         public void RestartGame()
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene);
+            SceneManager.LoadScene(SceneName);
         }
 
 }
