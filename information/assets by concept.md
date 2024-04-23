@@ -168,5 +168,4 @@ music
 	kick-ass *literally - needs transcribing
 	don't be fooled by weird love - needs transcribing
 	love for love by love of love - https://drive.google.com/file/d/1MGohk4ptwC2MQNOeax1sMzLtvZlxUPGI/view?usp=drive_link
-	non-breath oblige - https://musescore.com/user/40260509/scores/7121958
-		https://onlinesequencer.net/3940826#t0
+	non-breath oblige - https://onlinesequencer.net/3940826#t0
