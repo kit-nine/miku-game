@@ -36,4 +36,8 @@ public class KillCounter : MonoBehaviour
     }
 }
 
+{   void UpdateUI();
 
+    killText.text = "Kills: " + kills;
+    remaningText.text = "Remaining Enemies: " + remaningEnemies;
+}
