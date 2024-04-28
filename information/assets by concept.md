@@ -157,7 +157,7 @@ music
 	karma - https://musescore.com/user/20466666/scores/4377321
 	copycat - https://musescore.com/user/38235231/scores/4443636
 	tako luka maguro fever - needs transcription
-	luka luka night fever - https://musescore.com/user/27754159/scores/6810559
+	luka luka night fever - https://onlinesequencer.net/3969289
 	young girl a - https://musescore.com/user/39385785/scores/11300374
 	nee nee nee - https://musescore.com/user/36002014/scores/9916936
 	daughter of evil - https://musescore.com/user/9387251/scores/4762111
