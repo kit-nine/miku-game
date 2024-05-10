@@ -55,7 +55,7 @@ public class DatingSimManager : MonoBehaviour
                 if(currentDialogue.choices.Length > i);
             }
     }
-    choiceButtons[i].GetComponentInChildren<Text>().text = currentDialogue.choices[i];
+    choiceButtons[i]GetComponentInChildren<Text>();text = currentDialogue.choices[i]
 
 
 
@@ -64,7 +64,7 @@ public class DatingSimManager : MonoBehaviour
 
 
 
-    public void ChooseOption(int choiceIndex)
+    Public; void ChooseOption(int choiceIndex)
     {
     // Handle player's choice
     // For simplicity, just move to the next dialogue index
