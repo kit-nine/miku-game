@@ -46,7 +46,7 @@ public class DatingSimManager : MonoBehaviour
     {
         dialogueText.text= currentDialogue.dialogueLines[current-DialogueIndex];
             characterNameText.text = currentCharacter.characterName;
-            // Enable choice buttons if there are choicers aviable
+            // Enable choice buttons if there are choices aviable
             for (int i = 0; i < choiceButtons.Length; i++)
             {
 
@@ -56,7 +56,6 @@ public class DatingSimManager : MonoBehaviour
             }
     }
     choiceButtons[i]GetComponentInChildren<Text>();text = currentDialogue.choices[i]
-
 
 
 
