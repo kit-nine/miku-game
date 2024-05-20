@@ -68,7 +68,7 @@ art
 				rin (8 sprites)
 					happy, confused, sad, angry, neutral, disgusted, shrug, interested
 			humans (64x64)x10
-				walk (5 frames), run (5 frames)
+				walk (5 frames), run (5 frames), die (3 frames)
 		projectiles (32x32) x54
 			len (9 frames)
 				banana (4 frames)
