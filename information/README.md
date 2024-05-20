@@ -15,18 +15,10 @@ week 8 - finishing touches
 tl;dr what youre doing this week: (will update each sunday at the latest)
 
 DANIEL:
-<<<<<<< HEAD
-	kill/remaining counter, cutscenes, dating code, textboxes
-VALA:
-	luka outside fight, boss sprites, dating/textbox sprites
-LEXI:
-	teto outside fight, boss sprites, dating/textbox sprites
-=======
 	finish coding please
 VALA:
 	teto, rin, len, backgrounds, first frame of each animatic
 LEXI:
 	projectiles
->>>>>>> master
 KIT:
 	make more songs, make everything playable for next week

@@ -1,7 +1,4 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 4a15033855221594a9ff8899f6facd58
-=======
 <<<<<<<< HEAD:Assets/art/characters/gumi folder/4.png.meta
 <<<<<<<< HEAD:Assets/art/characters/gumi folder/4.png.meta
 guid: 4a15033855221594a9ff8899f6facd58
@@ -11,7 +8,6 @@ guid: c8b198a35d29bc24fbd9cc120360d249
 ========
 guid: c8b198a35d29bc24fbd9cc120360d249
 >>>>>>>> lexi:Assets/art/tilesets/gumi folder/gumi_needs tyo walk.png.meta
->>>>>>> master
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -93,22 +89,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-<<<<<<< HEAD
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-=======
->>>>>>> master
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
