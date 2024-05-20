@@ -1,5 +1,6 @@
 {
   "dependencies": {
+<<<<<<<< HEAD:manifest.json
     "com.unity.collab-proxy": "2.2.0",
     "com.unity.feature.2d": "2.0.0",
     "com.unity.ide.rider": "3.0.27",
@@ -9,6 +10,8 @@
     "com.unity.timeline": "1.7.6",
     "com.unity.ugui": "1.0.0",
     "com.unity.visualscripting": "1.9.1",
+========
+>>>>>>>> master:Packages/manifest.json
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
