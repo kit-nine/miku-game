@@ -1,4 +1,5 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 835ff4ef1b3de19479f3b930cfb0271b
 TextureImporter:
   internalIDToNameTable: []
@@ -138,3 +139,6 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+=======
+guid: 8e873ddc007bfcc4b81845c54ed32122
+>>>>>>> master

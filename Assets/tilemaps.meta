@@ -1,6 +1,15 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 0c9b50a5d96755845980590e2fbb6f69
 folderAsset: yes
+=======
+<<<<<<<< HEAD:Assets/tilemaps.meta
+guid: 0c9b50a5d96755845980590e2fbb6f69
+folderAsset: yes
+========
+guid: de41f9e864aa5314893967eb8fa9caf3
+>>>>>>>> lexi:Assets/art/tilesets/gumi folder/gumi_jump.piskel.meta
+>>>>>>> master
 DefaultImporter:
   externalObjects: {}
   userData: 

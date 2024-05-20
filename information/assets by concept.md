@@ -68,7 +68,11 @@ art
 				rin (8 sprites)
 					happy, confused, sad, angry, neutral, disgusted, shrug, interested
 			humans (64x64)x10
+<<<<<<< HEAD
 				walk (5 frames), run (5 frames)
+=======
+				walk (5 frames), run (5 frames), die (3 frames)
+>>>>>>> master
 		projectiles (32x32) x54
 			len (9 frames)
 				banana (4 frames)
@@ -151,13 +155,21 @@ code
 			fancy sprites match up with the tone of the sentence
 music
 	banana song - needs transcribing
+<<<<<<< HEAD
 	servant of evil - https://musescore.com/user/6430101/scores/1538916
+=======
+✓	servant of evil - https://onlinesequencer.net/3972445
+>>>>>>> master
 	fukkireta - https://musescore.com/user/2549301/scores/1735381
 	teto territory - https://musescore.com/user/8062846/scores/4256781
 	karma - https://musescore.com/user/20466666/scores/4377321
 	copycat - https://musescore.com/user/38235231/scores/4443636
 	tako luka maguro fever - needs transcription
+<<<<<<< HEAD
 	luka luka night fever - https://onlinesequencer.net/3969289
+=======
+✓	luka luka night fever - https://onlinesequencer.net/3969289
+>>>>>>> master
 	young girl a - https://musescore.com/user/39385785/scores/11300374
 	nee nee nee - https://musescore.com/user/36002014/scores/9916936
 	daughter of evil - https://musescore.com/user/9387251/scores/4762111
@@ -168,4 +180,8 @@ music
 	kick-ass *literally - needs transcribing
 	don't be fooled by weird love - needs transcribing
 	love for love by love of love - https://drive.google.com/file/d/1MGohk4ptwC2MQNOeax1sMzLtvZlxUPGI/view?usp=drive_link
+<<<<<<< HEAD
 	non-breath oblige - https://onlinesequencer.net/3940826#t0
+=======
+✓	non-breath oblige - https://onlinesequencer.net/3940826#t0
+>>>>>>> master
