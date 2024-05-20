@@ -1,40 +1,43 @@
-/*
-just commenting out this whole buggy script for the playtest cause i dont feel like debugging anymore
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class KillCounter : MonoBehaviour
 {
-    public string killText;
-    public string remainingText;
+    public Text killText;
+    public Text remaningText;
 
     private int kills;
-    private int remainingEnemies;
+    private int remaningEnemies;
+
     void Start()
     {
         kills = 0;
-        remainingEnemies = GameObject.FindGameObjectWithTag("Enemy").Length;
+        remaningEnemies = GameObject.FindGameObjectWithTag("Enemy").Length;
             UpdateUI();
     }
+
+   
     void Update()
     {
         if(Input.GetKeyDown(Keycode.space))
         {
             kills++;
-            remainingEnemies--;
+            remaningEnemies--;
             UpdateUI();
+
             //Check if all enemies are killed
-            if (remainingEnemies <= 0)
+            if (remaningEnemies <= 0)
             {
-                Debug.Log("All enemies killed");
+                Debug.Log ("All enemies killed");
                 // put win condition here
             }
         }
     }
-    void UpdateUI()
-    {
-        killText = "Kills: " + kills;
-        remainingText = "Remaining Enemies: " + remainingEnemies;
-    }
-}*/
+}
+
+{   void UpdateUI();
+
+    killText.text = "Kills: " + kills;
+    remaningText.text = "Remaining Enemies: " + remaningEnemies;
+}

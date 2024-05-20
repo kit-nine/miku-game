@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/songs.meta
 guid: 6289ce763fceab74b96bb3b5150df58a
+========
+guid: e6b48b5a3554ba94f8977b8b8fce1f7e
+>>>>>>>> lexi:Assets/art/tilesets/gumi folder.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
